@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi 👋, I’m Tasbiha Binte Aziz  
 
-<!--
-**tasbi-aziz/tasbi-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Final-semester **Computer Science & Engineering (CSE)** student  
+ **Jagannath University**, Bangladesh  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Programming Languages & Technologies
+- HTML, PHP  
+- Java, Python  
+- MySQL  
+- Kotlin, Dart  
+
+---
+
+###  Tools & Platforms I Use
+- Git & GitHub  
+- Visual Studio Code  
+- Android Studio  
+- Flutter  
+- Firebase  
+- MySQL Workbench  
+- XAMPP  
+
+---
+
+###  Currently
+This is a **fresh GitHub profile** where I will:
+- Upload my academic and personal projects  
+- Share things I’m currently learning and working on  
+- Improve my skills in software development and problem solving  
+
+---
+
+ Always learning, building, and improving.
+
